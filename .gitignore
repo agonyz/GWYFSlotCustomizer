@@ -1,0 +1,38 @@
+# Build outputs
+bin/
+obj/
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+*.sln
+
+# Visual Studio (just in case)
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Compiled mods / packages
+*.dll
+*.zip
+
+# BepInEx / runtime files
+BepInEx/
+doorstop_config.ini
+winhttp.dll
+mono_crash.*
+unity_crash.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+
+# Temporary files
+*.tmp
+*.cache

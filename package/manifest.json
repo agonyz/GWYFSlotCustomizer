@@ -1,0 +1,9 @@
+﻿{
+  "name": "GWYFSlotCustomizer",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/agonyz/GWYFSlotCustomizer",
+  "description": "Customize slot machine symbols in Gamble With Your Friends.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
