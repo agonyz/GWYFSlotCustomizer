@@ -25,7 +25,8 @@ public static class PatchSlotReelAwake
             return;
         }
 
-        string symbolsFolder = Path.Combine(Paths.PluginPath, Plugin.ModFolderName, "symbols");
+        string modFolder = Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!;
+        string symbolsFolder = Path.Combine(modFolder, "symbols");
 
         if (!Directory.Exists(symbolsFolder))
         {

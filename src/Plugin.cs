@@ -9,8 +9,7 @@ public class Plugin : BaseUnityPlugin
 {
     public const string PluginGuid = "com.agonyz.gwyf.slotcustomizer";
     public const string PluginName = "GWYF Slot Customizer";
-    public const string PluginVersion = "0.1.0";
-    public const string ModFolderName = "GWYFSlotCustomizer";
+    public const string PluginVersion = "0.1.1";
 
     internal static ManualLogSource Log = null!;
 
