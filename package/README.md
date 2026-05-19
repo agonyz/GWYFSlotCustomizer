@@ -16,7 +16,7 @@ Customize the slot machine symbols in ```Gamble With Your Friends``` using your 
 3. Navigate to:
 
 ```
-BepInEx/plugins/GWYFSlotCustomizer/symbols/
+BepInEx/plugins/agonyz-GWYFSlotCustomizer/GWYFSlotCustomizer/symbols/
 ```
 
 ---
